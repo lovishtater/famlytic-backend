@@ -91,7 +91,6 @@ build/
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
-.vscode-test
 
 # OS generated files
 .DS_Store
@@ -103,7 +102,6 @@ ehthumbs.db
 Thumbs.db
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -141,3 +139,7 @@ coverage/
 *.crt
 *.p12
 *.pfx
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
